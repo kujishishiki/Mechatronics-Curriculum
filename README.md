@@ -7,10 +7,28 @@ _While the first draft might be biaised toward my own interests, feel free to su
 
 ## Table of Contents
 
-- Preamble
+Preamble
 
-- Mathematics
-- Mechanical Engineering
-- Electrical Engineering
-- Computer Science Engineering
-- Mechatronics
+Mathematics for Engineering
+
+- Calculus
+- Differential Equations
+- Linear Algebra
+- Discrete Math
+- Statistics and Probabilities
+- Optimisation
+- Numerical Analysis
+- Complex Analysis
+
+Mechanical Engineering
+
+- Mechanics
+- Thermal Engineering
+- Material Engineering
+
+Electrical and Computer Science Engineering
+
+- Electronics
+- Computer Systems
+- Signals
+  Mechatronics
