@@ -17,11 +17,11 @@ _Articles_ :
 
 ---
 
-- [] Precalculus
+- [ ] Precalculus
 
   - [KA - Precalculus](https://www.khanacademy.org/math/precalculus)
 
-- [] Single Variable Calculus
+- [ ] Single Variable Calculus
 
   - [AP®︎/College Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
     or
