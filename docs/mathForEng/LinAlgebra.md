@@ -12,7 +12,5 @@ _Videos_:
 
 - [ ] Linear Algebra
   - [MIT 18.06SC - Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) \
-    \
-     or (sometimes edX format is easier for focus as it is more streamlined) \
-    \
+     **or** (sometimes edX format is easier for focus as it is more streamlined) \
   - [edX Format : MIT 18.06SC - Linear Algebra](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+18.06SC+2T2019/course/)
