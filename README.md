@@ -1,14 +1,15 @@
 # Mechatronics-Curriculum
 
-Yet Another Curriculum \
+Yet Another Curriculum
 
 ## Preamble
 
-This is a Curriculum that I'm building for myself, it should be noted that the partionning between fields might be inacurrate as I have formally no experience with most of the notions
-that it contains. I'm grateful to all the people that creates, puts on the Internet and maintains those wonderful courses, books, articles... as well as those repertoring and indexing these precious ressources,
-allowing people like myself to access education at marginal cost. For you are the seeders of minds. May the human civilisation expand and flourish.
+This is a Curriculum that I'm building for myself, it should be noted that the partionning between fields might be inacurrate as I have no formal experience with most of the notions
+that it contains. \
+I'm grateful to all the people that creates, puts on the Internet and maintains those wonderful courses, books, articles... as well as those repertoring and indexing these precious ressources,
+allowing people like myself to access education at marginal cost.
 
-A list of some of those index can be found [here]().
+For you are the seeders of minds. May the human civilisation expand and flourish.
 
 ---
 
