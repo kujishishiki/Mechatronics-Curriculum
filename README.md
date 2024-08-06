@@ -7,9 +7,10 @@ Yet Another Curriculum
 This is a Curriculum that I'm building for myself, it should be noted that the partionning between fields might be inacurrate as I have no formal experience with most of the notions
 that it contains. \
 I'm grateful to all the people that creates, puts on the Internet and maintains those wonderful courses, books, articles... as well as those repertoring and indexing these precious ressources,
-allowing people like myself to access education at marginal cost.
+allowing people like myself to access education at marginal cost. For you are the seeders of minds. \
+I hope that someday I will be able to participate in this joint effort to share knowledge globally.
 
-For you are the seeders of minds. May the human civilisation expand and flourish.
+May the human civilisation expand and flourish.
 
 ---
 
@@ -20,10 +21,10 @@ For you are the seeders of minds. May the human civilisation expand and flourish
 - **Mathematics for Engineering**
 
   - [Calculus](./docs/mathForEng/Calculus.md)
-  - [Differential Equations](./docs/mathForEng/)
-  - [Linear Algebra](./docs/mathForEng/)
-  - [Discrete Math](./docs/mathForEng/)
-  - [Statistics and Probabilities](./docs/mathForEng/)
+  - [Differential Equations](./docs/mathForEng/DiffEquations.md)
+  - [Linear Algebra](./docs/mathForEng/LinAlgebra.md)
+  - [Discrete Math](./docs/mathForEng/DiscreteMath.md)
+  - [Statistics and Probabilities](./docs/mathForEng/StatsProbs.md)
   - [Optimisation](./docs/mathForEng/)
   - [Numerical Analysis](./docs/mathForEng/)
   - [Complex Analysis](./docs/mathForEng/)
@@ -31,11 +32,11 @@ For you are the seeders of minds. May the human civilisation expand and flourish
 - **Programming for Engineers**
 
   - Data-Structures and Algorithms
-  - Software Architecture
+  - Software Architecture a
   - Clean Code
-  - Rust
   - Python
   - C/C++
+  - Rust
 
 - **Mechanical Engineering**
 
@@ -76,3 +77,7 @@ For you are the seeders of minds. May the human civilisation expand and flourish
   - Control Systems
   - Artificial Intelligence
   - Industrial Automation
+
+### Miscs
+
+- Thanking
