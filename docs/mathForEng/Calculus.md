@@ -2,16 +2,16 @@
 
 Calculus Learning Ressources
 
-Books:
+_Books_:
 
 - [Calculus Made Easy](https://calculusmadeeasy.org/)
 - [Calculus: Early Transcendentals](<https://math.libretexts.org/Bookshelves/Calculus/Map%3A_Calculus__Early_Transcendentals_(Stewart)>)
 
-Videos:
+_Videos_:
 
 - [3B1B Calculus](https://www.3blue1brown.com/topics/calculus)
 
-Articles :
+_Articles_ :
 
 - [What to know before learning Calculus](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ap-ab-about/a/ap-calc-prerequisites)
 
