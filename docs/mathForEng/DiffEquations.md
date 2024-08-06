@@ -8,15 +8,17 @@ _Books_:
 - Partial Differential Equations
   - [Introduction to Partial Differential Equations (Herman)](<https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_Partial_Differential_Equations_(Herman)>)
 
-_Videos_: -[3B1B - Differential Equations](https://www.3blue1brown.com/topics/differential-equations)
+_Videos_:
+
+-[3B1B - Differential Equations](https://www.3blue1brown.com/topics/differential-equations)
 
 ---
 
-- [] Ordinary Differential Equations
+- [ ] Ordinary Differential Equations
 
   - [KA - Differential equations](https://www.khanacademy.org/math/differential-equations)
     or
   - [18.03SC Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
 
-- [] Partial Differential Equations
+- [ ] Partial Differential Equations
   - [Not Yet Found]
