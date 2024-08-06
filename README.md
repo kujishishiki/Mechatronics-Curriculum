@@ -20,53 +20,52 @@ May the human civilisation expand and flourish.
 
 - **Mathematics for Engineering**
 
-  - [Calculus](./docs/mathForEng/Calculus.md)
-  - [Differential Equations](./docs/mathForEng/DiffEquations.md)
-  - [Linear Algebra](./docs/mathForEng/LinAlgebra.md)
-  - [Discrete Math](./docs/mathForEng/DiscreteMath.md)
-  - [Statistics and Probabilities](./docs/mathForEng/StatsProbs.md)
-  - [Optimisation](./docs/mathForEng/)
-  - [Numerical Analysis](./docs/mathForEng/)
-  - [Complex Analysis](./docs/mathForEng/)
+  - [ ] [Calculus](./docs/mathForEng/Calculus.md)
+  - [ ] [Differential Equations](./docs/mathForEng/DiffEquations.md)
+  - [ ] [Linear Algebra](./docs/mathForEng/LinAlgebra.md)
+  - [ ] [Discrete Math](./docs/mathForEng/DiscreteMath.md)
+  - [ ] [Statistics and Probabilities](./docs/mathForEng/StatsProbs.md)
+  - [ ] [Optimisation](./docs/mathForEng/)
+  - [ ] [Numerical Analysis](./docs/mathForEng/)
+  - [ ] [Complex Analysis](./docs/mathForEng/)
 
 - **Programming for Engineers**
 
-  - Data-Structures and Algorithms
-  - Software Architecture a
-  - Clean Code
-  - Python
-  - C/C++
-  - Rust
+  - [ ] Data-Structures and Algorithms
+  - [ ] Software Architecture and Practices
+  - [ ] Python
+  - [ ] C/C++
+  - [ ] Rust
 
 - **Mechanical Engineering**
 
-  - Mechanics
-    - Classical Mechanics
-    - Vibration and Waves
-    - Thermodynamics
-    - Heat Transfers
-    - Fluid Mechanics
-    - Gas Dynamics
-  - Material Science
-    - Chemistry
-    - Mechanics of Material
-  - Manufacturing
-    - Mechanism Design
-    - Design Theory
-    - CAD/CAM
+  - [ ] Mechanics
+    - [ ] Classical Mechanics
+    - [ ] Vibration and Waves
+    - [ ] Thermodynamics
+    - [ ] Heat Transfers
+    - [ ] Fluid Mechanics
+    - [ ] Gas Dynamics
+  - [ ] Material Science
+    - [ ] Chemistry
+    - [ ] Mechanics of Material
+  - [ ] Manufacturing
+    - [ ] Mechanism Design
+    - [ ] Design Theory
+    - [ ] CAD/CAM
 
 - **Electrical and Computer Science Engineering**
 
 - Electricity
-  - Electromagnetism
-  - Quantum Mechanics
-  - Electronics
+  - [ ] Electromagnetism
+  - [ ] Quantum Mechanics
+  - [ ] Electronics
 - Computing
-  - Computer Architecture and Digital Logic
-  - Operating Systems
-  - Embedded Programming
-  - Physics of Information
-  - Quantum Information Theory
+  - [ ] Computer Architecture and Digital Logic
+  - [ ] Operating Systems
+  - [ ] Embedded Programming
+  - [ ] Physics of Information
+  - [ ] Quantum Information Theory
 - Signals
 
   - Signals and Systems
