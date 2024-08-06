@@ -1,34 +1,74 @@
 # Mechatronics-Curriculum
 
-Yet Another Curriculum
+Yet Another Curriculum \
 _While the first draft might be biaised toward my own interests, feel free to submit a Pull Request_
+
+---
+
+## Preamble
 
 ---
 
 ## Table of Contents
 
-Preamble
+### Curriculum :
 
-Mathematics for Engineering
+- **Mathematics for Engineering**
 
-- Calculus
-- Differential Equations
-- Linear Algebra
-- Discrete Math
-- Statistics and Probabilities
-- Optimisation
-- Numerical Analysis
-- Complex Analysis
+  - Calculus
+  - Differential Equations
+  - Linear Algebra
+  - Discrete Math
+  - Statistics and Probabilities
+  - Optimisation
+  - Numerical Analysis
+  - Complex Analysis
 
-Mechanical Engineering
+- **Programming for Engineers**
 
-- Mechanics
-- Thermal Engineering
-- Material Engineering
+  - Data-Structures and Algorithms
+  - Software Architecture
+  - Clean Code
+  - Rust
+  - Python
+  - C/C++
 
-Electrical and Computer Science Engineering
+- **Mechanical Engineering**
 
-- Electronics
-- Computer Systems
+  - Mechanics
+    - Classical Mechanics
+    - Vibration and Waves
+    - Thermodynamics
+    - Heat Transfers
+    - Fluid Mechanics
+    - Gas Dynamics
+  - Material Science
+    - Chemistry
+    - Mechanics of Material
+  - Manufacturing
+    - Mechanism Design
+    - Design Theory
+    - CAD/CAM
+
+- **Electrical and Computer Science Engineering**
+
+- Electricity
+  - Electromagnetism
+  - Quantum Mechanics
+  - Electronics
+- Computing
+  - Computer Architecture and Digital Logic
+  - Operating Systems
+  - Embedded Programming
+  - Physics of Information
+  - Quantum Information Theory
 - Signals
-  Mechatronics
+
+  - Signals and Systems
+  - Communication Systems
+
+- Mechatronics
+  - Robotics
+  - Control Systems
+  - Artificial Intelligence
+  - Industrial Automation
