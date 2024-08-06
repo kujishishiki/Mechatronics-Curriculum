@@ -26,7 +26,7 @@ May the human civilisation expand and flourish.
   - [ ] [Discrete Math](./docs/mathForEng/DiscreteMath.md)
   - [ ] [Statistics and Probabilities](./docs/mathForEng/StatsProbs.md)
   - [ ] [Optimisation](./docs/mathForEng/)
-  - [ ] [Numerical Analysis](./docs/mathForEng/)
+  - [ ] [Approximation Theory](./docs/mathForEng/)
   - [ ] [Complex Analysis](./docs/mathForEng/)
 
 - **Programming for Engineers**
