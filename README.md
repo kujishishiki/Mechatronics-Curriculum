@@ -54,7 +54,7 @@ May the human civilisation expand and flourish.
     - [ ] Design Theory
     - [ ] CAD/CAM
 
-- **Electrical and Computer Science Engineering**
+- **Electrical Engineering and Computer Science**
 
 - Electricity
   - [ ] Electromagnetism
