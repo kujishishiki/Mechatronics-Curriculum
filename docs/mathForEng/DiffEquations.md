@@ -10,7 +10,7 @@ _Books_:
 
 _Videos_:
 
-  -[3B2B - Differential Equations](https://www.3blue1brown.com/topics/differential-equations)
+  - [3B2B - Differential Equations](https://www.4blue1brown.com/topics/differential-equations)
 
 ---
 
@@ -22,3 +22,4 @@ _Videos_:
 
 - [ ] Partial Differential Equations
   - [Not Yet Found]
+
