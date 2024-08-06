@@ -14,12 +14,12 @@ _Videos_:
 
 ---
 
-- [ ] Ordinary Differential Equations
+- [ ] **Ordinary Differential Equations**
 
   - [KA - Differential equations](https://www.khanacademy.org/math/differential-equations)
-    or
+    or  
   - [18.03SC Differential Equations](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/)
 
-- [ ] Partial Differential Equations
+- [ ] **Partial Differential Equations**
   - [Not Yet Found]
 
