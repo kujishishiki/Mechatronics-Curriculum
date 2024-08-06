@@ -15,14 +15,14 @@ _While the first draft might be biaised toward my own interests, feel free to su
 
 - **Mathematics for Engineering**
 
-  - Calculus
-  - Differential Equations
-  - Linear Algebra
-  - Discrete Math
-  - Statistics and Probabilities
-  - Optimisation
-  - Numerical Analysis
-  - Complex Analysis
+  - [Calculus](./docs/mathForEng/Calculus.md)
+  - [Differential Equations](./docs/mathForEng/)
+  - [Linear Algebra](./docs/mathForEng/)
+  - [Discrete Math](./docs/mathForEng/)
+  - [Statistics and Probabilities](./docs/mathForEng/)
+  - [Optimisation](./docs/mathForEng/)
+  - [Numerical Analysis](./docs/mathForEng/)
+  - [Complex Analysis](./docs/mathForEng/)
 
 - **Programming for Engineers**
 
