@@ -32,5 +32,5 @@ _Articles_ :
 - [ ] **Multivariable Calculus**
 
   - [KA - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) \
-    or \
+    or
   - [MIT Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
