@@ -1,0 +1,15 @@
+# Thermodynamics
+
+_Books_:
+
+- [Thermodynamics and Statistical Mechanics - Fitzpatrick](https://farside.ph.utexas.edu/teaching/sm1/Thermalhtml/Thermalhtml.html)
+- [Statistical Physics Ebook](https://statisticalphysics.leima.is/#)
+
+---
+
+- [ ] **Statistical Mechanics**
+  - [KA - Introduction to Thermodynamics](https://www.khanacademy.org/science/ap-physics-2/ap-thermodynamics)
+  - [Statistical Mechanics I: Statistical Mechanics of Particles](https://ocw.mit.edu/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/)
+  - [Statistical Mechanics II: Statistical Physics of Fields](https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/)
+- [ ] **Out-of-Equilibrium and Advanced Statistical Mechanics** (Comeback to it later)
+  - [PSI Statistical Physics](https://psi-online.perimeterinstitute.ca/courses/statistical-physics)
