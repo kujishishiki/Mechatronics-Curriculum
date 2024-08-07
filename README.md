@@ -33,7 +33,7 @@ May the human civilisation expand and flourish.
 - **Programming for Engineers**
 
   - [ ] Data-Structures and Algorithms
-  - [ ] Software Architecture and Practices
+  - [ ] Software Architecture and Best Practices
   - [ ] Python
   - [ ] C/C++
   - [ ] Rust
