@@ -58,8 +58,8 @@ May the human civilisation expand and flourish.
 - **Electrical Engineering and Computer Science**
 
 - Electricity
-  - [ ] Electromagnetism
-  - [ ] Quantum Mechanics
+  - [ ] [Electromagnetism](/docs/elecEngCS/Electromagnetism.md)
+  - [ ] [Quantum Mechanics](/docs/elecEngCS/QuantumMech.md)
   - [ ] Electronics
 - Computing
   - [ ] Computer Architecture and Digital Logic
