@@ -3,7 +3,7 @@
 _Books_:
   - **Information Theory** :
     - [6.050J Information Theory](https://ocw.mit.edu/courses/6-050j-information-and-entropy-spring-2008/pages/syllabus/)
-    - PartI-III [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itprnn/book.pdf)
+    - Part I-III [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itprnn/book.pdf)
 
 ---
 
