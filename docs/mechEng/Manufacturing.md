@@ -1,0 +1,2 @@
+- [The Art of Insight in Science and Engineering (Mahajan](<https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_The_Art_of_Insight_in_Science_and_Engineering_(Mahajan)>)
+- [SFI Fractals and Scaling](https://www.complexityexplorer.org/courses/187-fractals-and-scaling/segments/18868?summary)

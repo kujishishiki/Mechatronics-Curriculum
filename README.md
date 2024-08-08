@@ -48,13 +48,18 @@ May the human civilisation expand and flourish.
     - [ ] Heat Transfers
     - [ ] Fluid Mechanics
     - [ ] Gas Dynamics
-  - [ ] Material Science
+  - [ ] Material Science and Biophysics
     - [ ] [Chemistry]()
     - [ ] Solid Mechanics
+    - [ ] Biophysics
   - [ ] Manufacturing
     - [ ] Mechanism Design
     - [ ] Design Theory
     - [ ] CAD/CAM
+  - [ ] Machinery
+    - Robotics
+    - Control Systems
+    - Artificial Intelligence
 
 - **Electrical Engineering and Computer Science**
 
@@ -74,9 +79,7 @@ May the human civilisation expand and flourish.
   - Communication Systems
 
 - Mechatronics
-  - Robotics
-  - Control Systems
-  - Artificial Intelligence
+
   - Industrial Automation
 
 ## Others Awesome Lists and Curriculums

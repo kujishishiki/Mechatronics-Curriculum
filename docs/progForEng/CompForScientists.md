@@ -18,26 +18,25 @@ _Lists_:
 - [ME3255 - Computational Mechanics](https://cooperrc.github.io/computational-mechanics/README.html#)
 - [ME3256 - Data Driven Decisions](https://cooperrc.github.io/data-driven-decisions)
   https://perso.univ-lyon1.fr/marc.buffat/COURS/BOOK_OUTILSNUM_HTML/intro.html
-
--[Primer on Programming in Python and Mathematical/Computational Techniques for Scientists and Engineers](https://primer-computational-mathematics.github.io/book/intro.html)
-
+  https://github.com/CompPhysics/ComputationalPhysics -[Primer on Programming in Python and Mathematical/Computational Techniques for Scientists and Engineers](https://primer-computational-mathematics.github.io/book/intro.html)
 - [Land on Vector Spaces with Python](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp4+2019/about)
+
+https://compphysics.github.io/ComputationalPhysics2/doc/LectureNotes/_build/html/intro.html
 
 - Version Control
 
   - [Git Immersion](https://gitimmersion.com/)
   - [Happy Git](https://happygitwithr.com/)
-
-https://think-like-a-git.net/sections/about-this-site.html
+  - [Think Like a Git](https://think-like-a-git.net/sections/about-this-site.html)
 
 - Test Driven Development, Refactoring, Clean Code
 
   - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
-  - [Refactor like a Super Hero](https://refactor-like-a-superhero.vercel.app/en)
+  - [Refactoring 101](https://refactoring-101.readthedocs.io/en/latest/index.html)
   - [Clean Code in Python](https://github.com/zedr/clean-code-python)
-    https://refactoring.guru/refactoring
+  - [Code Smells](https://luzkan.github.io/smells/)
 
-- Jupyter Notebook
+- [ ] Jupyter Notebook
 
 - [ ] Software Architecture
 
@@ -47,5 +46,22 @@ https://think-like-a-git.net/sections/about-this-site.html
   - [The Architecture of Open-Source Application](https://aosabook.org/en/)
   - [The Architecture of Open-Source Application 2](https://aosabook.org/en/index.html)
 
-- Machine Learning
-  - [Open Machine Learning Course](https://mlcourse.ai/book/index.html)
+- UNIX
+
+  - [Linux Command Line Computing](https://learnbyexample.github.io/cli-computing/cover.html)
+  - [Linux Journey](https://linuxjourney.com/)
+
+  - [ ] Machine Learning
+
+    - [Open Machine Learning Course](https://mlcourse.ai/book/index.html)
+      or \
+    - [ 6.036 Introduction to Machine Learning ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
+    - [IMTx: Understanding Artificial Intelligence through Algorithmic Information Theory](https://www.edx.org/learn/artificial-intelligence/imt-understanding-artificial-intelligence-through-algorithmic-information-theory)
+
+    - [Applied Data Analysis and Machine Learning](https://compphysics.github.io/MachineLearning/doc/LectureNotes/_build/html/intro.html)
+      https://buqeye.github.io/LearningFromData/about.html
+
+  - [ ] Deep Learning
+
+    - [Dive Into Deep-Learning](https://d2l.ai/)
+    - [Practical Deep Learning for Coders](https://course.fast.ai/)

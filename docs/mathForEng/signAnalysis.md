@@ -21,4 +21,9 @@ _Exercices_:
   - Lecture 1-9 [Information Theory, Inference, and Learning Algorithms](https://videolectures.net/course_information_theory_pattern_recognition/)
 - [ ] **Fourier Transform**
   - [Learn-Fourier-Transform](https://github.com/OmarAlkousa/Learn-Fourier-Transform)
-- [ ] **Laplace Transform**
+- [ ] Signals and Systems
+  - [IITBombayX: Signals and Systems, Part 1](https://www.edx.org/learn/engineering/iitbombay-signals-and-systems-part-1)
+  - [IITBombayX: Signals and Systems, Part 2](https://www.edx.org/learn/engineering/iitbombay-signals-and-systems-part-2)
+- [MITx: Discrete-Time Signal Processing](https://www.edx.org/learn/computer-programming/massachusetts-institute-of-technology-discrete-time-signal-processing-4)
+
+https://ch-poulliat.github.io/3SN-TR-Egalisation/intro.html
