@@ -9,6 +9,7 @@ _Books_:
 _Exercises_:
 
 - [Ph2a Online: Vibrations and Waves ](https://waves.caltech.edu/resources)
+- [ Vibration et Ondes Exercices corrigés](https://www.cours-et-exercices.com/2015/12/exercices-corriges-ondes-et-vibrations.html)
 
 ---
 
