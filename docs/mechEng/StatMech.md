@@ -8,6 +8,10 @@ _Books_:
 - [Statistical Mechanics for Chemistry and Biology](https://dpotoyan.github.io/Statmech4ChemBio/index.html)
 - [Thermodynamique de l’ingénieur, Olivier Cleynen](https://thermodynamique.fr/thermodynamique-livre-gratuit.pdf)
 
+_Exercices_:
+
+- [Exercice Corrigé Physique Statistique](https://www.physiquechimiemathbiologie.com/search/label/Physique%20statistique?m=1)
+
 ---
 
 - [ ] **Statistical Mechanics**
