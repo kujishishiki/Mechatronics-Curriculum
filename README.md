@@ -79,7 +79,7 @@ May the human civilisation expand and flourish.
   - Artificial Intelligence
   - Industrial Automation
 
-## Other Awesome Lists and Curriculum
+## Others Awesome Lists and Curriculums
 
 - [mahran-sayed's Awesome Aerospace Engineering ](https://github.com/mahran-sayed/awesome-aerospace-engineering)
 - [m2n037's awesome-mecheng](https://github.com/m2n037/awesome-mecheng)
