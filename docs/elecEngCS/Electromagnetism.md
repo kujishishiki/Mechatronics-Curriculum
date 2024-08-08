@@ -12,6 +12,11 @@ _Articles_:
 
 _Exercises_:
 
+- [Solved Exercises in electromagnetism](https://www.cours-et-exercices.com/2018/01/solved-exercises-in-electromagnetism.html)
+- [IsaacNewton Question Finder](https://isaacphysics.org/gameboards/new)
+- [Soved exercises in Electromagnetism](https://ejmastnak.com/notes/fmf/emp/emp-exercises.pdf)
+- [Electromagnetism (Exercises) ](<https://phys.libretexts.org/Bookshelves/Conceptual_Physics/Conceptual_Physics_(Crowell)/12%3A_Electromagnetism/12.E%3A_Electromagnetism_(Exercises)>)
+
 ---
 
 - [ ] Electromagnetism :

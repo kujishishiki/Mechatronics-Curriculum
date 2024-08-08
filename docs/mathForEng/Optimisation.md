@@ -1,5 +1,10 @@
 # Optimisation
 
+_Books_:
+
+- [Engineering Design Optimization](https://mdobook.github.io/)
+- [Hands-On Mathematical Optimization with Python](https://mobook.github.io/MO-book/intro.html#)
+
 ---
 
 - [ ] Optimisation

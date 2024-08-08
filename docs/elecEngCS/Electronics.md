@@ -26,3 +26,5 @@ _Exercises_:
 - [ ] [PurdueX: Semiconductor Fundamentals](https://www.edx.org/learn/electronics/purdue-university-semiconductor-fundamentals) - [ ] [PurdueX: Fundamentals of Transistors](https://www.edx.org/learn/electronics/purdue-university-fundamentals-of-transistors)
 
 - [ ] [PurdueX: Fundamentals of Current Flow](https://www.edx.org/learn/electronics/purdue-university-fundamentals-of-current-flow)
+
+- [Physical Computing](https://makeabilitylab.github.io/physcomp/)

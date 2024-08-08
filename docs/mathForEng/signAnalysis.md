@@ -19,6 +19,7 @@ _Exercices_:
 
 - [ ] **Information Theory**
   - Lecture 1-9 [Information Theory, Inference, and Learning Algorithms](https://videolectures.net/course_information_theory_pattern_recognition/)
+  - [Introduction to Information Theory](https://www.complexityexplorer.org/courses/55-introduction-to-information-theory/segments/4321?summary)
 - [ ] **Fourier Transform**
   - [Learn-Fourier-Transform](https://github.com/OmarAlkousa/Learn-Fourier-Transform)
 - [ ] Signals and Systems

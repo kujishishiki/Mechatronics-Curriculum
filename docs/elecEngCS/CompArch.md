@@ -8,3 +8,7 @@
 - [Nand2Tetris](https://www.nand2tetris.org/)
 
 - [ ] Operating Systems
+
+- [ ] Theory of Computation
+  - [SFI Introduction to Computation Theory](https://www.complexityexplorer.org/courses/58-introduction-to-computation-theory/segments/5204?summary)
+  - [Computation in Complex Systems](https://www.complexityexplorer.org/courses/173-computation-in-complex-systems-spring-2023/segments/17212?summary)

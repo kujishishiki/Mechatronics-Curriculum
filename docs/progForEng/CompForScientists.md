@@ -1,7 +1,5 @@
 # Computing For Scientists
 
-A way to be better at programming is... to practice... a lot.. Being a non-software specialist does not justifie your messy codebase.
-
 _Lists_:
 
 - [Awesome Scientific Computing](https://github.com/nschloe/awesome-scientific-computing)
@@ -15,8 +13,15 @@ _Lists_:
 
 ---
 
+- Test Driven Development, Refactoring, Clean Code
+
+  - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
+  - [Refactoring 101](https://refactoring-101.readthedocs.io/en/latest/index.html)
+  - [Clean Code in Python](https://github.com/zedr/clean-code-python)
+  - [Code Smells](https://luzkan.github.io/smells/)
+
+- [Scientific Python Lectures](https://lectures.scientific-python.org/)
 - [ME3255 - Computational Mechanics](https://cooperrc.github.io/computational-mechanics/README.html#)
-- [ME3256 - Data Driven Decisions](https://cooperrc.github.io/data-driven-decisions)
   https://perso.univ-lyon1.fr/marc.buffat/COURS/BOOK_OUTILSNUM_HTML/intro.html
   https://github.com/CompPhysics/ComputationalPhysics -[Primer on Programming in Python and Mathematical/Computational Techniques for Scientists and Engineers](https://primer-computational-mathematics.github.io/book/intro.html)
 - [Land on Vector Spaces with Python](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp4+2019/about)
@@ -26,15 +31,10 @@ https://compphysics.github.io/ComputationalPhysics2/doc/LectureNotes/_build/html
 - Version Control
 
   - [Git Immersion](https://gitimmersion.com/)
+  - [Git Branching](https://learngitbranching.js.org/)
   - [Happy Git](https://happygitwithr.com/)
   - [Think Like a Git](https://think-like-a-git.net/sections/about-this-site.html)
-
-- Test Driven Development, Refactoring, Clean Code
-
-  - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
-  - [Refactoring 101](https://refactoring-101.readthedocs.io/en/latest/index.html)
-  - [Clean Code in Python](https://github.com/zedr/clean-code-python)
-  - [Code Smells](https://luzkan.github.io/smells/)
+  - [Pro Git](https://git-scm.com/book/en/v2)
 
 - [ ] Jupyter Notebook
 

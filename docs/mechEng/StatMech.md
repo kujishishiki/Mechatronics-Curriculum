@@ -15,4 +15,5 @@ _Books_:
   - [Statistical Mechanics I: Statistical Mechanics of Particles](https://ocw.mit.edu/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/)
   - [Statistical Mechanics II: Statistical Physics of Fields](https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/)
 - [ ] **Out-of-Equilibrium and Advanced Statistical Mechanics** (Comeback to it later)
+  - [SFI Random Walks](https://www.complexityexplorer.org/courses/46-random-walks/segments/3854?summary)
   - [PSI Statistical Physics](https://psi-online.perimeterinstitute.ca/courses/statistical-physics)

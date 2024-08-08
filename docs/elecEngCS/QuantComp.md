@@ -13,7 +13,7 @@ _Books_:
   - [Physics as Information Processing](https://coda.io/@active-inference-institute/fields-physics-2023/course-syllabus-2)
   - [PurdueX: Boltzmann Law: Physics to Computing](https://www.edx.org/learn/engineering/purdue-university-boltzmann-law-physics-to-computing)
 
-  - [ ] Quantum ML
-        https://github.com/CompPhysics/QuantumComputingMachineLearning
+- [ ] Quantum ML
+      https://github.com/CompPhysics/QuantumComputingMachineLearning
 
 https://manybodyphysics.github.io/FYS4480/doc/LectureNotes/_build/html/intro.html
