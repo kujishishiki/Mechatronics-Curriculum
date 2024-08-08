@@ -6,6 +6,7 @@ _Books_:
 - [Introduction to Modern Statistics](https://openintro-ims.netlify.app/)
 - [Think Bayes](https://allendowney.github.io/ThinkBayes2/index.html#)
 - [Data 140 Probability for Data Science](http://prob140.org/textbook/content/README.html)
+- [Bayesian Statistics](https://buqeye.github.io/LearningFromData/content/Course/overview.html)
 
 _Videos_:
 
