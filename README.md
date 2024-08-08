@@ -34,8 +34,10 @@ May the human civilisation expand and flourish.
 
   - [ ] [Data-Structures and Algorithms]
   - [ ] [Software Architecture and Best Practices]
+  - [ ] [Computing for Scientists]
   - [ ] [Python]
   - [ ] [C/C++]
+  - [ ] [Julia]
   - [ ] [Rust]
 
 - **Mechanical Engineering**
