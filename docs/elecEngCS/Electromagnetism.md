@@ -24,5 +24,7 @@ _Exercises_:
   - [8.02.1x Electricity and Magnetism: Electrostatics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.1x+1T2019/about)
   - [8.02.2x Electricity and Magnetism: Magnetic Fields and Forces](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.2x+2T2018/about)
   - [8.02.3x Electricity and Magnetism: Maxwell’s Equations](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.3x+1T2019/about)
+     
     or
+    
   - [PHYS102: Introduction to Electromagnetism](https://learn.saylor.org/course/view.php?id=18) For you can get a free certificate out of it.
