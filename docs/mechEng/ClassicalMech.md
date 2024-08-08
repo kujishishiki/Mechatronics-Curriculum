@@ -20,7 +20,9 @@ _Exercises_:
 - [ ] **Introduction to Classical Mechanics**
 
   - [8.01SC Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/)
-    or in edX Format \
+     
+    or in edX Format
+    
   - [8.01.1x Mechanics: Kinematics and Dynamics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.01.1x+3T2018/about)
   - [8.01.2x Mechanics: Momentum and Energy](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.01.2x+3T2018/about)
   - [8.01.3x Mechanics: Rotational Dynamics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.01.3x+1T2019/about)
