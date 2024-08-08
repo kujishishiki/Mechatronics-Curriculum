@@ -1,5 +1,9 @@
 # Computing For Scientists
 
+_Books_:
+
+- [Applied Data Analysis and Machine Learning](https://compphysics.github.io/MachineLearning/doc/LectureNotes/_build/html/intro.html)
+
 _Lists_:
 
 - [Awesome Scientific Computing](https://github.com/nschloe/awesome-scientific-computing)
@@ -13,14 +17,13 @@ _Lists_:
 
 ---
 
-- [ ] Test Driven Development, Refactoring, Clean Code
+- UNIX and Shell
 
-  - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
-  - [Refactoring 101](https://refactoring-101.readthedocs.io/en/latest/index.html)
-  - [Clean Code in Python](https://github.com/zedr/clean-code-python)
-  - [Code Smells](https://luzkan.github.io/smells/)
+  - [Linux Command Line Computing](https://learnbyexample.github.io/cli-computing/cover.html)
+  - [Linux Journey](https://linuxjourney.com/)
+ 
 
-- Version Control
+- [ ] Version Control
 
   - [Git Immersion](https://gitimmersion.com/)
   - [Git Branching](https://learngitbranching.js.org/)
@@ -28,7 +31,12 @@ _Lists_:
   - [Think Like a Git](https://think-like-a-git.net/sections/about-this-site.html)
   - [Pro Git](https://git-scm.com/book/en/v2)
 
-- [ ] Jupyter Notebook
+- [ ] Test Driven Development, Refactoring, Clean Code
+
+  - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
+  - [Refactoring 101](https://refactoring-101.readthedocs.io/en/latest/index.html)
+  - [Clean Code in Python](https://github.com/zedr/clean-code-python)
+  - [Code Smells](https://luzkan.github.io/smells/)
 
 - [ ] Software Architecture
 
@@ -38,21 +46,17 @@ _Lists_:
   - [The Architecture of Open-Source Application](https://aosabook.org/en/)
   - [The Architecture of Open-Source Application 2](https://aosabook.org/en/index.html)
 
-- UNIX
-
-  - [Linux Command Line Computing](https://learnbyexample.github.io/cli-computing/cover.html)
-  - [Linux Journey](https://linuxjourney.com/)
 
 - [ ] Machine Learning
 
-- [Open Machine Learning Course](https://mlcourse.ai/book/index.html)
-  or \
-- [ 6.036 Introduction to Machine Learning ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
+  - [Open Machine Learning Course](https://mlcourse.ai/book/index.html)
+    or \
+  - [ 6.036 Introduction to Machine Learning ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
 
-    - [Applied Data Analysis and Machine Learning](https://compphysics.github.io/MachineLearning/doc/LectureNotes/_build/html/intro.html)
+- [ ] Deep Learning
 
-
-  - [ ] Deep Learning
+    - [Dive Into Deep-Learning](https://d2l.ai/)
+    - [Practical Deep Learning for Coders](https://course.fast.ai/)
  
 
 - [Scientific Python Lectures](https://lectures.scientific-python.org/)
@@ -63,5 +67,3 @@ _Lists_:
 
 https://compphysics.github.io/ComputationalPhysics2/doc/LectureNotes/_build/html/intro.html
 
-    - [Dive Into Deep-Learning](https://d2l.ai/)
-    - [Practical Deep Learning for Coders](https://course.fast.ai/)
