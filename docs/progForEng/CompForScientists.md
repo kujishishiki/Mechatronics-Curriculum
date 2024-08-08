@@ -7,6 +7,7 @@ _Books_:
   - [Outils numériques avancés en Mécanique](https://perso.univ-lyon1.fr/marc.buffat/COURS/BOOK_OUTILSNUM_HTML/intro.html)
   - [Primer on Programming in Python and Mathematical/Computational Techniques for Scientists and Engineers](https://primer-computational-mathematics.github.io/book/c_mathematics/intro.html)
   - [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/Index.html)
+  - [Intro to Mathematical Modeling](https://ubcmath.github.io/MATH360/README.html)
 
 - **Machine Learning**
   
