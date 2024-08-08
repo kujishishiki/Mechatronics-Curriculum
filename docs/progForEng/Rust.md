@@ -8,7 +8,12 @@ _Lists_:
 - [from Julia To Rust](https://miguelraz.github.io/blog/juliatorust/)
 - [rust Start Pack](https://opheron.github.io/rust-starter-pack/)
 
-- [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
+
+---
 
 - [The Rust Programming Language](https://rust-book.cs.brown.edu/)
 - [Rustlings](https://rustlings.cool/)
+
+
+
+- [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
