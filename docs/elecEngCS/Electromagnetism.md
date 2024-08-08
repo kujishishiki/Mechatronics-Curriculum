@@ -17,6 +17,7 @@ _Exercises_:
 - [Soved exercises in Electromagnetism](https://ejmastnak.com/notes/fmf/emp/emp-exercises.pdf)
 - [Electromagnetism (Exercises) ](<https://phys.libretexts.org/Bookshelves/Conceptual_Physics/Conceptual_Physics_(Crowell)/12%3A_Electromagnetism/12.E%3A_Electromagnetism_(Exercises)>)
 - [Exercices corrigés sur l’électromagnétisme](https://www.methodephysique.fr/exercices_electromagnetisme/)
+- [Electromagnetism II problem Sets](https://ocw.mit.edu/courses/8-07-electromagnetism-ii-fall-2012/pages/assignments/)
 
 ---
 
