@@ -2,9 +2,13 @@
 
 _Books_:
 
+- **Scientific Computing**
+
   - [Outils numériques avancés en Mécanique](https://perso.univ-lyon1.fr/marc.buffat/COURS/BOOK_OUTILSNUM_HTML/intro.html)
   - [Primer on Programming in Python and Mathematical/Computational Techniques for Scientists and Engineers](https://primer-computational-mathematics.github.io/book/c_mathematics/intro.html)
   - [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/Index.html)
+
+- **Machine Learning**
   
   - [Applied Data Analysis and Machine Learning](https://compphysics.github.io/MachineLearning/doc/LectureNotes/_build/html/intro.html)
 
