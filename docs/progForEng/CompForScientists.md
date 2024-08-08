@@ -11,7 +11,11 @@ _Books_:
 - **Machine Learning**
   
   - [Applied Data Analysis and Machine Learning](https://compphysics.github.io/MachineLearning/doc/LectureNotes/_build/html/intro.html)
+  - [Open Machine Learning Course](https://mlcourse.ai/book/index.html)
 
+- **Deep Learning**
+
+  - [Dive Into Deep-Learning](https://d2l.ai/)
 
 _Lists_:
 
@@ -63,15 +67,12 @@ _Lists_:
 
 
 - [ ] Machine Learning
-
-  - [Open Machine Learning Course](https://mlcourse.ai/book/index.html)
-    or \
+  
   - [ 6.036 Introduction to Machine Learning ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
 
 - [ ] Deep Learning
 
     - [Practical Deep Learning for Coders](https://course.fast.ai/)
-    - [Dive Into Deep-Learning](https://d2l.ai/)
     
 
 
