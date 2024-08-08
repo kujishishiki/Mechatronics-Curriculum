@@ -15,6 +15,7 @@ _Exercises_:
 - [University Physics, OpenStax]
   - [Exercices](<https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/07%3A_Quantum_Mechanics/7.0E%3A_7.E%3A_Quantum_Mechanics_(Exercises)>)
   - [Answers](<https://phys.libretexts.org/Bookshelves/University_Physics/University_Physics_(OpenStax)/University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/07%3A_Quantum_Mechanics/7.0E%3A_7.E%3A_Quantum_Mechanics_(Exercises)>)
+- [Exercice Corrigé de Mecanique Quantique](https://www.physiquechimiemathbiologie.com/search/label/M%C3%A9canique%20quantique%201%20L2?m=1)
 
 ---
 
