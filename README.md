@@ -43,15 +43,15 @@ May the human civilisation expand and flourish.
 - **Mechanical Engineering**
 
   - [ ] Mechanics
-    - [ ] Classical Mechanics
-    - [ ] Vibration and Waves
-    - [ ] Thermodynamics
+    - [ ] [Classical Mechanics]()
+    - [ ] [Vibration and Waves]()
+    - [ ] [Thermodynamics]()
     - [ ] Heat Transfers
     - [ ] Fluid Mechanics
     - [ ] Gas Dynamics
   - [ ] Material Science
-    - [ ] Chemistry
-    - [ ] Mechanics of Material
+    - [ ] [Chemistry]()
+    - [ ] Solid Mechanics
   - [ ] Manufacturing
     - [ ] Mechanism Design
     - [ ] Design Theory

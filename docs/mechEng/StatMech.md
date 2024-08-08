@@ -4,6 +4,9 @@ _Books_:
 
 - [Thermodynamics and Statistical Mechanics - Fitzpatrick](https://farside.ph.utexas.edu/teaching/sm1/Thermalhtml/Thermalhtml.html)
 - [Statistical Physics Ebook](https://statisticalphysics.leima.is/#)
+- [Computational Thermodynamics](https://kyleniemeyer.github.io/computational-thermo/content/intro.html)
+- [Statistical Mechanics for Chemistry and Biology](https://dpotoyan.github.io/Statmech4ChemBio/index.html)
+- [Thermodynamique de l’ingénieur, Olivier Cleynen](https://thermodynamique.fr/thermodynamique-livre-gratuit.pdf)
 
 ---
 
