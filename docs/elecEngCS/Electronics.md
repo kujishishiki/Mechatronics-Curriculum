@@ -14,6 +14,8 @@ _Books_ :
 
 _Exercises_:
 
+  - Electric Circuits:
+    - [ Exercice corrigé sur les Circuits électriques](https://www.cours-et-exercices.com/2014/05/exercice-corrige-sur-les-circuits.html)
 - [CircuitBread Electronics Tutorials](https://www.circuitbread.com/tutorials)
 - [Electric Circuit Problem Set](https://www.physicsclassroom.com/calcpad/circuits)
 - [EE Worksheets](https://www.allaboutcircuits.com/worksheets/)
