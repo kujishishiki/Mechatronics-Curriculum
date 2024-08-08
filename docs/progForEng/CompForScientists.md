@@ -1,5 +1,11 @@
 # Computing For Scientists
 
+_Lists_:
+
+- [Awesome Scientific Computing](https://github.com/nschloe/awesome-scientific-computing)
+
+---
+
 - [ME3255 - Computational Mechanics](https://cooperrc.github.io/computational-mechanics/README.html#)
 - [ME3256 - Data Driven Decisions](https://cooperrc.github.io/data-driven-decisions)
 

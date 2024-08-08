@@ -3,6 +3,7 @@
 _Books_:
 
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
+- [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/~flame/laff/alaff/ALAFF.html)
 
 _Videos_:
 

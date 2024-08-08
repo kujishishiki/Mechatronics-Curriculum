@@ -68,7 +68,7 @@ May the human civilisation expand and flourish.
   - [ ] Operating Systems
   - [ ] Embedded Programming
   - [ ] Physics of Information
-  - [ ] Quantum Information Theory
+  - [ ] Quantum Computing
 - Signals
 
   - Signals and Systems
@@ -80,6 +80,12 @@ May the human civilisation expand and flourish.
   - Artificial Intelligence
   - Industrial Automation
 
-### Miscs
+## Other Awesome Lists and Curriculum
 
-- Thanking
+- [mahran-sayed's Awesome Aerospace Engineering ](https://github.com/mahran-sayed/awesome-aerospace-engineering)
+- [m2n037's awesome-mecheng](https://github.com/m2n037/awesome-mecheng)
+- [The Engineer's Bible Mechanical Engineer Roadmap](https://engineersbible.com/mechanical-engineer-roadmap/)
+- [engyasin's Awesome Mechatronics](https://github.com/engyasin/awesome-mechatronics/tree/master)
+- [Daniil Burakov's Robotics Roadmap](https://sarrasor.github.io/RoboticsRoadmap/)
+- [Artoriuz's Open-Source Electrical Engineering Curriculum](https://github.com/Artoriuz/OSEE)
+- [ m3y54m's Embedded Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
