@@ -19,7 +19,7 @@ _Exercises_:
 
 ---
 
-- [ ] ## Quantum Physics
+- [ ]  Quantum Physics
   - [MIT - Quantum Physics I](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/pages/video-lectures/)
   - [MIT - Quantum Physics II](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/pages/syllabus/)
   - [MIT - Quantum Physics III](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/pages/syllabus/)
