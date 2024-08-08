@@ -13,3 +13,5 @@
 - [ME 3263 - Introduction to Sensors and Data Analysis](https://cooperrc.github.io/sensors_and_data/README.html)
 
 - [EGLM03 Modern Control Systems](https://cpjobling.github.io/eglm03-textbook/index.html)
+
+- http://www.cours-et-exercices.com/2009/05/cours-dinstrumentation.html
