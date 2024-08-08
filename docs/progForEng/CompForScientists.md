@@ -2,7 +2,12 @@
 
 _Books_:
 
-- [Applied Data Analysis and Machine Learning](https://compphysics.github.io/MachineLearning/doc/LectureNotes/_build/html/intro.html)
+  - [Outils numériques avancés en Mécanique](https://perso.univ-lyon1.fr/marc.buffat/COURS/BOOK_OUTILSNUM_HTML/intro.html)
+  - [Primer on Programming in Python and Mathematical/Computational Techniques for Scientists and Engineers](https://primer-computational-mathematics.github.io/book/c_mathematics/intro.html)
+  - [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/Index.html)
+  
+  - [Applied Data Analysis and Machine Learning](https://compphysics.github.io/MachineLearning/doc/LectureNotes/_build/html/intro.html)
+
 
 _Lists_:
 
@@ -17,11 +22,17 @@ _Lists_:
 
 ---
 
-- UNIX and Shell
+- [ ] UNIX and Shell
 
   - [Linux Command Line Computing](https://learnbyexample.github.io/cli-computing/cover.html)
   - [Linux Journey](https://linuxjourney.com/)
- 
+
+- [ ] Scientific Computing
+
+  - [Scientific Python Lectures](https://lectures.scientific-python.org/)
+  - [ME3255 - Computational Mechanics](https://cooperrc.github.io/computational-mechanics/README.html#)
+  - [Land on Vector Spaces with Python](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp4+2019/about)
+  - [Advanced Topics in Computational Physics: Computational Quantum Mechanics](https://compphysics.github.io/ComputationalPhysics2/doc/LectureNotes/_build/html/intro.html)
 
 - [ ] Version Control
 
@@ -55,15 +66,8 @@ _Lists_:
 
 - [ ] Deep Learning
 
-    - [Dive Into Deep-Learning](https://d2l.ai/)
     - [Practical Deep Learning for Coders](https://course.fast.ai/)
- 
+    - [Dive Into Deep-Learning](https://d2l.ai/)
+    
 
-- [Scientific Python Lectures](https://lectures.scientific-python.org/)
-- [ME3255 - Computational Mechanics](https://cooperrc.github.io/computational-mechanics/README.html#)
-  https://perso.univ-lyon1.fr/marc.buffat/COURS/BOOK_OUTILSNUM_HTML/intro.html
-  https://github.com/CompPhysics/ComputationalPhysics -[Primer on Programming in Python and Mathematical/Computational Techniques for Scientists and Engineers](https://primer-computational-mathematics.github.io/book/intro.html)
-- [Land on Vector Spaces with Python](https://openedx.seas.gwu.edu/courses/course-v1:GW+EngComp4+2019/about)
-
-https://compphysics.github.io/ComputationalPhysics2/doc/LectureNotes/_build/html/intro.html
 
