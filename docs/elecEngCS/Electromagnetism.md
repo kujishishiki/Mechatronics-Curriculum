@@ -10,6 +10,8 @@ _Articles_:
 
 - [An Intuitive Guide to Maxwell’s Equations](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
 
+_Exercises_:
+
 ---
 
 - [ ] Electromagnetism :

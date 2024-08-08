@@ -1,7 +1,5 @@
 # Data-Structures and Algorithms
 
-Make sure you try to implement your own version given the explanations before looking at the source code. If you are focusing on EECS, do it in C or C++.
-
 _Books_:
 
 - [Hello Algo](https://www.hello-algo.com/en/)
