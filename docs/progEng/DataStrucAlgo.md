@@ -1,9 +1,5 @@
 # Data-Structures and Algorithms
 
-_Books_:
-
-- [Hello Algo](https://www.hello-algo.com/en/)
-
 _Websites_:
 
 - [VisualAlgo](https://visualgo.net/en)
@@ -18,5 +14,14 @@ _Articles_:
 
 ---
 
-- [ ] Data-Structures and Algorithms
-  - [CS201: Elementary Data Structures](https://learn.saylor.org/course/view.php?id=66)
+
+_Course_:
+
+- [ ] [CS201: Elementary Data Structures](https://learn.saylor.org/course/view.php?id=66)
+
+
+_Books_:
+
+- [ ] [Hello Algo](https://www.hello-algo.com/en/)
+
+_Exercises_:
