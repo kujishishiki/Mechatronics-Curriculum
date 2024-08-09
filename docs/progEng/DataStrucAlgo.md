@@ -25,3 +25,5 @@ _Books_:
 - [ ] [Hello Algo](https://www.hello-algo.com/en/)
 
 _Exercises_:
+
+- [ ] [Neetcode 150](https://neetcode.io/practice)
