@@ -1,10 +1,11 @@
 # Statistics and Probability
 
-🎓 [AP®︎/College Statistics](https://www.khanacademy.org/math/ap-statistics)  
+🎓: 
+- [AP®︎/College Statistics](https://www.khanacademy.org/math/ap-statistics)
 
 or
 
-🎓 [18.05 Introduction to Probability and Statistics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.05r_10+2022_Summer/about)
+- [18.05 Introduction to Probability and Statistics](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.05r_10+2022_Summer/about)
 
 
 📖 [Seeing Theories](https://seeing-theory.brown.edu/index.html#secondPage)
