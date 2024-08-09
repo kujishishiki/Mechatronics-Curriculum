@@ -31,9 +31,10 @@ _Course_:
 _Books_:
 
 - [ ] [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
+- [ ] [Calculus Made Easy](https://calculusmadeeasy.org/)
 
 - **Single Variable Calculus**
-  - [Calculus Made Easy](https://calculusmadeeasy.org/)
+
   - [Calculus: Early Transcendentals](<https://math.libretexts.org/Bookshelves/Calculus/Map%3A_Calculus__Early_Transcendentals_(Stewart)>)
   - [Active Calculus](https://activecalculus.org/single/book-1.html)
   
