@@ -19,6 +19,9 @@ _Articles_ :
 
 ---
 
+https://numericalmethodssullivan.github.io/index.html
+https://fncbook.github.io/fnc/frontmatter.html
+
 - [ ] **Precalculus**
 
   - [KA - Precalculus](https://www.khanacademy.org/math/precalculus)
