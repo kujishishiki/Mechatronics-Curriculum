@@ -1,6 +1,6 @@
 # Statistics and Probability
 
-**Main Course** : 
+**Course** : 
 
 - [ ] [AP®︎/College Statistics](https://www.khanacademy.org/math/ap-statistics)
 
