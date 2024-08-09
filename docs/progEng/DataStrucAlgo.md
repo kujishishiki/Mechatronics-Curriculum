@@ -8,6 +8,9 @@ _Websites_:
 
 - [VisualAlgo](https://visualgo.net/en)
 - [Algorithms Visualiser](https://algorithm-visualizer.org/)
+- [LeetCode Wiki](https://doocs.github.io/leetcode/en/)
+- [Neetcode](https://neetcode.io/)
+- [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
 
 _Articles_:
 
