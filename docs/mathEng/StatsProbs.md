@@ -10,13 +10,13 @@ or
 
 **Books** :
 
-- [Seeing Theories](https://seeing-theory.brown.edu/index.html#secondPage)
+- [ ] [Seeing Theories](https://seeing-theory.brown.edu/index.html#secondPage)
 
-- [Think Bayes](https://allendowney.github.io/ThinkBayes2/index.html#)
+- [ ] [Think Bayes](https://allendowney.github.io/ThinkBayes2/index.html#)
 
-- [Data 140 Probability for Data Science](http://prob140.org/textbook/content/README.html)
+- [ ] [(Optionnal) Data 140 Probability for Data Science](http://prob140.org/textbook/content/README.html)
 
 
 **Videos** :
 
-- [3B1B - Probability](https://www.3blue1brown.com/topics/probability)
+- [ ] (Optonnal)[3B1B - Probability](https://www.3blue1brown.com/topics/probability)
