@@ -7,6 +7,10 @@
 - [6.004 Computation Structures](https://computationstructures.org/index.html)
 - [Nand2Tetris](https://www.nand2tetris.org/)
 
+
+- [ ] Digital Design 
+  - https://hwlabnitc.github.io/
+
 - [ ] Operating Systems
 
 - [ ] Theory of Computation
