@@ -1,4 +1,4 @@
-# Approximationtheory
+# Approximation Theory
 
 _Books_:
 
