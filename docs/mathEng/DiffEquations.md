@@ -1,18 +1,6 @@
 # Differential Equations
 
-_Books_:
-
-- Ordinary Differential Equations
-  - [A First Course in Differential Equations for Scientists and Engineers (Herman)](<https://math.libretexts.org/Bookshelves/Differential_Equations/A_First_Course_in_Differential_Equations_for_Scientists_and_Engineers_(Herman)>)
-  - [A Second Course in Ordinary Differential Equations: Dynamical Systems and Boundary Value Problems (Herman)](<https://math.libretexts.org/Bookshelves/Differential_Equations/A_Second_Course_in_Ordinary_Differential_Equations%3A_Dynamical_Systems_and_Boundary_Value_Problems_(Herman)>)
-- Partial Differential Equations
-  - [Introduction to Partial Differential Equations (Herman)](<https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_Partial_Differential_Equations_(Herman)>)
-
-_Videos_:
-
-  - [3B2B - Differential Equations](https://www.4blue1brown.com/topics/differential-equations)
-
----
+_Course_: 
 
 - [ ] **Ordinary Differential Equations**
 
@@ -22,4 +10,21 @@ _Videos_:
 
 - [ ] **Partial Differential Equations**
   - [Not Yet Found]
+     
 
+
+_Books_:
+
+- Ordinary Differential Equations
+
+  - Optionnal - [A First Course in Differential Equations for Scientists and Engineers (Herman)](<https://math.libretexts.org/Bookshelves/Differential_Equations/A_First_Course_in_Differential_Equations_for_Scientists_and_Engineers_(Herman)>)
+  - Optionnal - [A Second Course in Ordinary Differential Equations: Dynamical Systems and Boundary Value Problems (Herman)](<https://math.libretexts.org/Bookshelves/Differential_Equations/A_Second_Course_in_Ordinary_Differential_Equations%3A_Dynamical_Systems_and_Boundary_Value_Problems_(Herman)>)
+ 
+- Partial Differential Equations
+
+  - Optionnal - [Introduction to Partial Differential Equations (Herman)](<https://math.libretexts.org/Bookshelves/Differential_Equations/Introduction_to_Partial_Differential_Equations_(Herman)>)
+
+
+_Videos_:
+
+  - Optionnal - [3B2B - Differential Equations](https://www.4blue1brown.com/topics/differential-equations)
