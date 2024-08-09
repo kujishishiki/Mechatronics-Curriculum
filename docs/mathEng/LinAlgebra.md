@@ -15,8 +15,8 @@ _Videos_:
 
 _Books_:
 
-- [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/~flame/laff/alaff/ALAFF.html)
-- [The Jupyter Guide to Linear Algebra](https://bvanderlei.github.io/jupyter-guide-to-linear-algebra/intro.html)
+- [ ] [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/~flame/laff/alaff/ALAFF.html)
+- [ ] [The Jupyter Guide to Linear Algebra](https://bvanderlei.github.io/jupyter-guide-to-linear-algebra/intro.html)
 
 - Optionnal - [Geometric algorithms](https://mcrovella.github.io/CS132-Geometric-Algorithms/landing-page.html)
 - Optionnal - [Linear Algebra MMU](https://jonshiach.github.io/LA-book/_pages/0_intro.html)
