@@ -28,6 +28,7 @@ May the human civilisation expand and flourish.
   - [ ] [Approximation Theory](./docs/mathEng/ApproxTheory.md)
   - [ ] [Optimisation](./docs/mathEng/Optimisation.md)
   - [ ] [Complex Analysis](./docs/mathEng/CplxAnalysis.md)
+  - [ ] [Differential Geometry
   - [ ] [Signal Analysis](./docs/mathEng/signAnalysis.md)
   - [ ] [Complexity Theory]()
 
