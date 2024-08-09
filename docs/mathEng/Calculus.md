@@ -20,7 +20,7 @@ _Course_:
   - [ ] [ 18.01.2x Calculus 1B: Integration ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)
   - [ ] [ 18.01.3x Calculus 1C: Coordinate Systems & Infinite Series ](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)
 
-- [ ] **Multivariable Calculus**
+- **Multivariable Calculus**
 
   -  [ ] [KA - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
      
