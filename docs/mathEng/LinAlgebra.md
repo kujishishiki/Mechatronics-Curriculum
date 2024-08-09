@@ -15,7 +15,6 @@ _Videos_:
 
 _Books_:
 
-- [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
 - [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/~flame/laff/alaff/ALAFF.html)
 - [The Jupyter Guide to Linear Algebra](https://bvanderlei.github.io/jupyter-guide-to-linear-algebra/intro.html)
 
