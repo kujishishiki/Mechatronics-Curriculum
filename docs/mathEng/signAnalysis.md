@@ -13,7 +13,7 @@ _Books_:
 
 _Exercices_:
 
-- https://ch-poulliat.github.io/Cours-TS-SN1A-N7/TD.html
+- [Travaux dirigés & Exercices](https://ch-poulliat.github.io/Cours-TS-SN1A-N7/TD.html)
 
 ---
 
@@ -25,6 +25,4 @@ _Exercices_:
 - [ ] Signals and Systems
   - [IITBombayX: Signals and Systems, Part 1](https://www.edx.org/learn/engineering/iitbombay-signals-and-systems-part-1)
   - [IITBombayX: Signals and Systems, Part 2](https://www.edx.org/learn/engineering/iitbombay-signals-and-systems-part-2)
-- [MITx: Discrete-Time Signal Processing](https://www.edx.org/learn/computer-programming/massachusetts-institute-of-technology-discrete-time-signal-processing-4)
-
-https://ch-poulliat.github.io/3SN-TR-Egalisation/intro.html
+    `- [MITx: Discrete-Time Signal Processing](https://www.edx.org/learn/computer-programming/massachusetts-institute-of-technology-discrete-time-signal-processing-4)

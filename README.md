@@ -16,19 +16,27 @@ May the human civilisation expand and flourish.
 
 ## Table of Contents
 
+### Legend
+
+🎓: Course
+🧿: Videos
+📖: Books and Lecture Notes
+🧮: Exercises
+⚒️: Projects
+
 ### Curriculum :
 
 - **Mathematics for Engineering**
 
-  - [ ] [Calculus](./docs/mathForEng/Calculus.md)
-  - [ ] [Differential Equations](./docs/mathForEng/DiffEquations.md)
-  - [ ] [Linear Algebra](./docs/mathForEng/LinAlgebra.md)
-  - [ ] [Discrete Math](./docs/mathForEng/DiscreteMath.md)
-  - [ ] [Statistics and Probabilities](./docs/mathForEng/StatsProbs.md)
-  - [ ] [Approximation Theory](./docs/mathForEng/ApproxTheory.md)
-  - [ ] [Optimisation](./docs/mathForEng/Optimisation.md)
-  - [ ] [Complex Analysis](./docs/mathForEng/CplxAnalysis.md)
-  - [ ] [Signal Analysis](./docs/mathForEng/signAnalysis.md)
+  - [ ] [Calculus](./docs/mathEng/Calculus.md)
+  - [ ] [Differential Equations](./docs/mathEng/DiffEquations.md)
+  - [ ] [Linear Algebra](./docs/mathEng/LinAlgebra.md)
+  - [ ] [Discrete Math](./docs/mathEng/DiscreteMath.md)
+  - [ ] [Statistics and Probabilities](./docs/mathEng/StatsProbs.md)
+  - [ ] [Approximation Theory](./docs/mathEng/ApproxTheory.md)
+  - [ ] [Optimisation](./docs/mathEng/Optimisation.md)
+  - [ ] [Complex Analysis](./docs/mathEng/CplxAnalysis.md)
+  - [ ] [Signal Analysis](./docs/mathEng/signAnalysis.md)
   - [ ] [Complexity Theory]()
 
 - **Programming for Engineers**
@@ -69,19 +77,15 @@ May the human civilisation expand and flourish.
   - [ ] [Quantum Mechanics](/docs/elecEngCS/QuantumMech.md)
   - [ ] Electronics
 - Computing
+
   - [ ] Computer Architecture and Digital Logic
   - [ ] Operating Systems
   - [ ] Embedded Programming
   - [ ] Physics of Information
   - [ ] Quantum Computing
-- Signals
 
   - Signals and Systems
   - Communication Systems
-
-- Mechatronics
-
-  - Industrial Automation
 
 ## Others Awesome Lists and Curriculums
 

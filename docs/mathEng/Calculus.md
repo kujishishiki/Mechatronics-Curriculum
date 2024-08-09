@@ -19,7 +19,6 @@ _Articles_ :
 
 ---
 
-https://numericalmethodssullivan.github.io/index.html
 https://fncbook.github.io/fnc/frontmatter.html
 
 - [ ] **Precalculus**
