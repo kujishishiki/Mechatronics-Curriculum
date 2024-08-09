@@ -2,7 +2,7 @@
 
 _Books_:
 
-- **Scientific Computing**
+- **Scientific Modeling**
 
   - [Intro to Mathematical Modeling](https://ubcmath.github.io/MATH360/README.html)
   - [Modeling in Python](https://allendowney.github.io/ModSimPy/index.html)
