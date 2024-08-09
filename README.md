@@ -16,14 +16,6 @@ May the human civilisation expand and flourish.
 
 ## Table of Contents
 
-### Legend
-
-🎓: Course
-🧿: Videos
-📖: Books and Lecture Notes
-🧮: Exercises
-⚒️: Projects
-
 ### Curriculum :
 
 - **Mathematics for Engineering**
