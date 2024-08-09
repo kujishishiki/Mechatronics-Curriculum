@@ -14,9 +14,9 @@ or
 
 - [ ] [Think Bayes](https://allendowney.github.io/ThinkBayes2/index.html#)
 
-- **Optionnal** [Data 140 Probability for Data Science](http://prob140.org/textbook/content/README.html)
+- Optionnal [Data 140 Probability for Data Science](http://prob140.org/textbook/content/README.html)
 
 
 *Videos* :
 
-- **Optionnal** [3B1B - Probability](https://www.3blue1brown.com/topics/probability)
+- Optionnal [3B1B - Probability](https://www.3blue1brown.com/topics/probability)
