@@ -20,3 +20,4 @@ _Books_:
 - [Geometric algorithms](https://mcrovella.github.io/CS132-Geometric-Algorithms/landing-page.html)
 - [Matrix Algebra with Computational Applications](https://colbrydi.github.io/MatrixAlgebra/0-Introduction.html)
 - [The Jupyter Guide to Linear Algebra](https://bvanderlei.github.io/jupyter-guide-to-linear-algebra/intro.html)
+- [Linear Algebra MMU](https://jonshiach.github.io/LA-book/_pages/0_intro.html)
