@@ -17,7 +17,11 @@ _Books_:
 
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
 - [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/~flame/laff/alaff/ALAFF.html)
-- [Geometric algorithms](https://mcrovella.github.io/CS132-Geometric-Algorithms/landing-page.html)
-- [Matrix Algebra with Computational Applications](https://colbrydi.github.io/MatrixAlgebra/0-Introduction.html)
 - [The Jupyter Guide to Linear Algebra](https://bvanderlei.github.io/jupyter-guide-to-linear-algebra/intro.html)
-- [Linear Algebra MMU](https://jonshiach.github.io/LA-book/_pages/0_intro.html)
+
+- Optionnal - [Geometric algorithms](https://mcrovella.github.io/CS132-Geometric-Algorithms/landing-page.html)
+- Optionnal - [Linear Algebra MMU](https://jonshiach.github.io/LA-book/_pages/0_intro.html)
+
+_Exercises_:
+
+- [ ] [Matrix Algebra with Computational Applications](https://colbrydi.github.io/MatrixAlgebra/0-Introduction.html)
