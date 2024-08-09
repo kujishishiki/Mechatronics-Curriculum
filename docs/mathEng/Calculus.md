@@ -1,16 +1,5 @@
 # Calculus
 
-
-
-- **Single Variable Calculus**
-  - [Calculus Made Easy](https://calculusmadeeasy.org/)
-  - [Calculus: Early Transcendentals](<https://math.libretexts.org/Bookshelves/Calculus/Map%3A_Calculus__Early_Transcendentals_(Stewart)>)
-  - [Active Calculus](https://activecalculus.org/single/book-1.html)
-  - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
-- **Multivariable Calculus**:
-  - [Active Calculus - Multivariable](https://activecalculus.org/multi/book-1.html)
-
-
 _Course_:
 
 - [ ] **Precalculus**
@@ -40,6 +29,17 @@ _Course_:
   - [MIT Multivariable Calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
      
 _Books_:
+
+- [ ] [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
+
+- **Single Variable Calculus**
+  - [Calculus Made Easy](https://calculusmadeeasy.org/)
+  - [Calculus: Early Transcendentals](<https://math.libretexts.org/Bookshelves/Calculus/Map%3A_Calculus__Early_Transcendentals_(Stewart)>)
+  - [Active Calculus](https://activecalculus.org/single/book-1.html)
+  
+ 
+- **Multivariable Calculus**:
+    - [Active Calculus - Multivariable](https://activecalculus.org/multi/book-1.html)
 
 _Videos_:
 
