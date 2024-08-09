@@ -14,6 +14,7 @@ _Books_:
   
   - [Applied Data Analysis and Machine Learning](https://compphysics.github.io/MachineLearning/doc/LectureNotes/_build/html/intro.html)
   - [Open Machine Learning Course](https://mlcourse.ai/book/index.html)
+  - https://pantelis.github.io/artificial-intelligence/intro.html
 
 - **Deep Learning**
 
