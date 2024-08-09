@@ -1,5 +1,11 @@
 # Julia
 
+_Resources_:
+
+--- 
+
+Introduction:
+
 - [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 
 - [A Deep Introduction to Julia for Data Science and Scientific Computing](https://ucidatascienceinitiative.github.io/IntroToJulia/)
