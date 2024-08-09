@@ -19,4 +19,4 @@ or
 
 **Videos** :
 
-[3B1B - Probability](https://www.3blue1brown.com/topics/probability)
+- [3B1B - Probability](https://www.3blue1brown.com/topics/probability)
